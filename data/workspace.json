@@ -1,9 +1,17 @@
 {
- "workspaces": {},
- "tasks": {},
- "notes": {},
- "whiteboards": {},
- "files": {},
- "version": 0,
- "lastModified": "2025-01-15T10:00:00Z"
+  "workspaces": {
+    "ws_001": {}
+  },
+  "tasks": {},
+  "notes": {
+    "ws_001": {
+      "study": "",
+      "formulas": "",
+      "ideas": ""
+    }
+  },
+  "whiteboards": {},
+  "files": {},
+  "version": 1,
+  "lastModified": "2025-12-08T17:14:32.704Z"
 }
